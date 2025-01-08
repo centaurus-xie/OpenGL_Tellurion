@@ -1,0 +1,7 @@
+﻿tellrution-project.obj : error LNK2019: 无法解析的外部符号 __imp_exit，函数 glutCreateWindow_ATEXIT_HACK 中引用了该符号
+tellrution-project.obj : error LNK2001: 无法解析的外部符号 _RTC_InitBase
+tellrution-project.obj : error LNK2001: 无法解析的外部符号 _RTC_Shutdown
+tellrution-project.obj : error LNK2001: 无法解析的外部符号 _fltused
+LINK : error LNK2001: 无法解析的外部符号 mainCRTStartup
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x86\MSVCRTD.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\x64\Debug\tellrution-project.exe : fatal error LNK1120: 5 个无法解析的外部命令

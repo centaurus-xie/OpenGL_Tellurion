@@ -1,0 +1,13 @@
+﻿  tellrution-project.c
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(130,25): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(130,33): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(130,40): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(133,25): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(133,33): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(133,40): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(177,1): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(178,1): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(256,19): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(257,19): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\tellrution-project.c(291,28): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+  tellrution-project.vcxproj -> H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\tellrution-project\Debug\tellrution-project.exe

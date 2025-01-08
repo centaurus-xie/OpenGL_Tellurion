@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(homework.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  whiteRectangle.c
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\whiteRectangle.c(22,22): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\whiteRectangle.c(22,47): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\whiteRectangle.c(29,19): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\whiteRectangle.c(30,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\whiteRectangle.c(31,20): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\whiteRectangle.c(32,21): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\whiteRectangle.c(65,39): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+  homework.vcxproj -> H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\homework4\x64\Debug\homework1To3.exe

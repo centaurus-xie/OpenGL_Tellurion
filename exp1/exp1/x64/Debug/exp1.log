@@ -1,0 +1,3 @@
+﻿  main.c
+H:\Coding\AAse3_1\compGrap\OpenGL_Tellurion\exp1\exp1\main.c(36,28): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
